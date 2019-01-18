@@ -1,3 +1,4 @@
 # Guacamole_oppskrift
-En haug med oppskrifter
-- bruk txt (rtf?) (istedet for word) og csv/tsv (istedet for xls/xlsx) - kanskje odt?
+## En haug med oppskrifter
+- bruk txt (kanskje rtf? odt?) (istedet for word) 
+- csv/tsv (istedet for xls/xlsx)
